@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidsoc12
-- 👀 I’m interested in learning as much as I can and building the best applications!
+- 👀 I’m interested in learning as much as I can and building the best applications that can help the most amount of people!
 
 
 <!---
