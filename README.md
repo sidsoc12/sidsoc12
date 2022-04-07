@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidsoc12
+- 👋 Hi, I’m Sid!
 - 👀 I’m interested in learning as much as I can and building the best applications that can help the most amount of people!
 
 
