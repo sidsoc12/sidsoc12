@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</div>
+
 - 👋 Hi, I’m Sid!
 - 👀 I’m interested in learning as much as I can and building the best applications that can help the most amount of people!
 
