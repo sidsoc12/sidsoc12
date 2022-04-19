@@ -12,8 +12,16 @@
 </h1>
 </div>
 <div align= "center">
-👨‍💻 About Me : I’m an incoming freshman at Stanford University with an intended major of Computer Science. I am interested in learning as much as I can and building the best applications that can help the most amount of people!
+👨‍💻 About Me : I’m an incoming freshman at Stanford University with an intended major of Computer Science. I am interested in learning as much as I can and building the best applications that can help the most amount of people! 
 </div>
+<div align = "center">
+   <br> <a href="https://www.codegrepper.com/profile/siddharthpotti">Check out my Grepper Profile!</a>
+</div>
+
+
+
+
+
 
 
 <!-- <div align = "center">
