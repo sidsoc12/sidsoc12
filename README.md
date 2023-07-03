@@ -12,7 +12,7 @@
 </h1>
 </div>
 <div align= "center">
-👨‍💻 About Me : I’m an incoming sophomore at Stanford University with an intended major of Computer Science. 
+👨‍💻 About Me : I’m an incoming sophomore at Stanford University studying Computer Science and AI. 
 </div>
 <div align = "center">
    <br> <a href="https://www.codegrepper.com/profile/siddharthpotti">Check out my Grepper Profile!</a>
